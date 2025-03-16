@@ -14,9 +14,11 @@ RandomUmbrellaProgram/
 ├── src/
 │   └── main.bat
 ├── images/
-│   ├── umbrella1.jpg
-│   ├── umbrella2.jpg
-│   └── umbrella3.png
+│   ├── Black Umbrella.jpg
+│   ├── Blue Umbrella.jpg
+│   ├── Orange Umbrella.jpg
+│   ├── Red Umbrella.jpg
+│   └── White Umbrella.jpg
 ├── README.md
 └── LICENSE
 ```
