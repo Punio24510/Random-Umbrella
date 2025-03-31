@@ -7,7 +7,7 @@ This project randomly opens an umbrella photo from the `images` directory.
 1. Place your umbrella photos in the `images` directory.
 2. Run the `main.bat` file in the `src` directory.
 
-## Directory Structure
+## Example Directory Structure
 
 ```
 RandomUmbrellaProgram/
@@ -18,7 +18,8 @@ RandomUmbrellaProgram/
 │   ├── Blue Umbrella.jpg
 │   ├── Orange Umbrella.jpg
 │   ├── Red Umbrella.jpg
-│   └── White Umbrella.jpg
+│   ├── White Umbrella.jpg
+│   └── Green Umbrella.jpg
 ├── README.md
 └── LICENSE
 ```
