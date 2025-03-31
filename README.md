@@ -12,7 +12,8 @@ This project randomly opens an umbrella photo from the `images` directory.
 ```
 RandomUmbrellaProgram/
 ├── src/
-│   └── main.bat
+│   ├── main.bat
+│   └── fast.bat
 ├── images/
 │   ├── Black Umbrella.jpg
 │   ├── Blue Umbrella.jpg

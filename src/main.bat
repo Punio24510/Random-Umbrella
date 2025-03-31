@@ -3,6 +3,8 @@ setlocal enabledelayedexpansion
 
 :: Change to the images directory
 cd /d "%~dp0..\images"
+echo Welcome to Random Umbrella
+ping -n 2 127.0.0.1 >nul
 
 :: Initialize counter
 set count=0
@@ -22,6 +24,8 @@ if %count%==0 (
 
 :: Generate a random number between 1 and the number of image files
 set /a "randomNum=%random% %% count + 1"
+echo One second
+ping -n 2 127.0.0.1 >nul
 
 :: Open the randomly selected image file
 start "" "!file[%randomNum%]!"
